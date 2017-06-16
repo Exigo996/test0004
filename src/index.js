@@ -18,5 +18,5 @@ const App = () => {
     </Provider>
   );
 };
-
+console.log('test');
 ReactDOM.render(<App />, document.getElementById('root'));
